@@ -1,1 +1,1 @@
-Smooth Python 2024
+Smooth Python.
